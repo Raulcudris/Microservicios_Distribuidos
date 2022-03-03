@@ -1,0 +1,16 @@
+E:\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.deps.json
+E:\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.dll
+E:\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.pdb
+E:\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfoInputs.cache
+E:\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfo.cs
+E:\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.csproj.CoreCompileInputs.cache
+E:\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.dll
+E:\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.pdb
+E:\Proyectos-API\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.deps.json
+E:\Proyectos-API\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.dll
+E:\Proyectos-API\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\bin\Debug\netcoreapp3.1\Customer.Domain.pdb
+E:\Proyectos-API\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfoInputs.cache
+E:\Proyectos-API\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.AssemblyInfo.cs
+E:\Proyectos-API\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.csproj.CoreCompileInputs.cache
+E:\Proyectos-API\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.dll
+E:\Proyectos-API\MicroServicios\KODOTI.Commerce\src\Services\Customer\Customer.Domain\obj\Debug\netcoreapp3.1\Customer.Domain.pdb

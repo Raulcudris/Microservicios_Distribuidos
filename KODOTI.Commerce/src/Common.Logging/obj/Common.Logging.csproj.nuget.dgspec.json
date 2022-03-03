@@ -1,0 +1,343 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Common.Logging\\Common.Logging.csproj": {}
+  },
+  "projects": {
+    "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Common.Logging\\Common.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Common.Logging\\Common.Logging.csproj",
+        "projectName": "Common.Logging",
+        "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Common.Logging\\Common.Logging.csproj",
+        "packagesPath": "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Common.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAKIIA-PC03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj": {
+                "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Nito.Disposables": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj",
+        "projectName": "Catalog.Common",
+        "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj",
+        "packagesPath": "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAKIIA-PC03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
+        "projectName": "Catalog.Domain",
+        "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj",
+        "packagesPath": "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAKIIA-PC03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Persistence.Database\\Catalog.Persistence.Database.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Persistence.Database\\Catalog.Persistence.Database.csproj",
+        "projectName": "Catalog.Persistence.Database",
+        "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Persistence.Database\\Catalog.Persistence.Database.csproj",
+        "packagesPath": "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Persistence.Database\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAKIIA-PC03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj": {
+                "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Domain\\Catalog.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj",
+        "projectName": "Catalog.Service.EventHandlers",
+        "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Service.EventHandlers\\Catalog.Service.EventHandlers.csproj",
+        "packagesPath": "C:\\Users\\MAKIIA-PC03\\.nuget\\packages\\",
+        "outputPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Service.EventHandlers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MAKIIA-PC03\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj": {
+                "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Common\\Catalog.Common.csproj"
+              },
+              "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Persistence.Database\\Catalog.Persistence.Database.csproj": {
+                "projectPath": "E:\\Proyectos-API\\MicroServicios\\KODOTI.Commerce\\src\\Services\\Catalog\\Catalog.Persistence.Database\\Catalog.Persistence.Database.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
